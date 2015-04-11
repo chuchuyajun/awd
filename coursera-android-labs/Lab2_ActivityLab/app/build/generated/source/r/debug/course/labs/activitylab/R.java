@@ -14,16 +14,24 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int bClose=0x7f060005;
+        public static final int bClose=0x7f06000c;
+        public static final int bLaunchActivityThree=0x7f060005;
         public static final int bLaunchActivityTwo=0x7f060004;
+        public static final int buttonThree=0x7f06000b;
         public static final int create=0x7f060000;
+        public static final int gridLayout=0x7f060006;
+        public static final int passwod_input=0x7f06000a;
+        public static final int password_text=0x7f060009;
         public static final int restart=0x7f060003;
         public static final int resume=0x7f060002;
         public static final int start=0x7f060001;
+        public static final int username_input=0x7f060008;
+        public static final int username_text=0x7f060007;
     }
     public static final class layout {
         public static final int activity_one=0x7f030000;
-        public static final int activity_two=0x7f030001;
+        public static final int activity_three=0x7f030001;
+        public static final int activity_two=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
@@ -33,7 +41,8 @@ public final class R {
         public static final int onRestart=0x7f040004;
         public static final int onResume=0x7f040005;
         public static final int onStart=0x7f040006;
-        public static final int title_activity_activity_two=0x7f040007;
+        public static final int title_activity_activity_three=0x7f040007;
+        public static final int title_activity_activity_two=0x7f040008;
     }
     public static final class style {
         /** 

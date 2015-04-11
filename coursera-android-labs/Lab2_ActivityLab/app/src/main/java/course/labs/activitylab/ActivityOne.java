@@ -72,6 +72,20 @@ public class ActivityOne extends Activity {
             }
 		});
 
+
+        Button launchActivityThreeButton = (Button) findViewById(R.id.bLaunchActivityThree);
+        launchActivityThreeButton.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ActivityOne.this, ActivityThree.class);
+
+                // Launch the Activity using the intent
+                startActivity(intent);
+
+            }
+        });
+
 		// Has previous state been saved?
 		if (savedInstanceState != null) {
 

@@ -29,4 +29,10 @@
         android:layout_height="wrap_content"
         android:text="@string/button" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Activity Three"
+        android:id="@+id/bLaunchActivityThree" />
+
 </LinearLayout><!-- From: file:/C:/Projekte/awd/coursera-android-labs/Lab2_ActivityLab/app/src/main/res/layout/activity_one.xml -->

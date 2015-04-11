@@ -26,6 +26,10 @@
             android:name="course.labs.activitylab.ActivityTwo"
             android:label="@string/title_activity_activity_two" >
         </activity>
+        <activity
+            android:name="course.labs.activitylab.ActivityThree"
+            android:label="@string/title_activity_activity_three" >
+        </activity>
     </application>
 
 </manifest>

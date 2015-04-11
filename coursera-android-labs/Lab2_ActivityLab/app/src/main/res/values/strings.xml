@@ -8,6 +8,7 @@
     <string name="onRestart">onRestart() calls: 0</string>
     <string name="button">Start Activity Two</string>
     <string name="title_activity_activity_two">Activity Two</string>
+    <string name="title_activity_activity_three">Activity Three</string>
     <string name="close">Close Activity</string>
 	
 </resources>

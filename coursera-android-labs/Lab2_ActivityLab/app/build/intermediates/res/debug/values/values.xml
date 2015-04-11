@@ -9,6 +9,7 @@
     <string name="onRestart">onRestart() calls: 0</string>
     <string name="onResume">onResume() calls: 0</string>
     <string name="onStart">onStart() calls: 0</string>
+    <string name="title_activity_activity_three">Activity Three</string>
     <string name="title_activity_activity_two">Activity Two</string>
     <!-- From: file:/C:/Projekte/awd/coursera-android-labs/Lab2_ActivityLab/app/src/main/res/values/styles.xml -->
     <eat-comment/>
